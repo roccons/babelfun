@@ -1,0 +1,12 @@
+{
+  "name": "es6-babel",
+  "version": "1.0.0",
+  "description": "Para poder hacer pruebas de sintaxis as6",
+  "main": "index.html",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^4.2.4",
+    "gulp-babel": "~5.1.0"
+  }
+}
